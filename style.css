@@ -1,0 +1,10 @@
+body{
+    background-color: lightslategray;
+}
+
+div{
+    width: 400px;
+    margin: auto;
+    border-style: solid;
+    padding: 50px;
+}
